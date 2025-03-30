@@ -1,0 +1,15 @@
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/bin/Debug/net9.0/DiceRollApp
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/bin/Debug/net9.0/DiceRollApp.deps.json
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/bin/Debug/net9.0/DiceRollApp.runtimeconfig.json
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/bin/Debug/net9.0/DiceRollApp.dll
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/bin/Debug/net9.0/DiceRollApp.pdb
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/DiceRollApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/DiceRollApp.AssemblyInfoInputs.cache
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/DiceRollApp.AssemblyInfo.cs
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/DiceRollApp.csproj.CoreCompileInputs.cache
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/DiceRollApp.sourcelink.json
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/DiceRollApp.dll
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/refint/DiceRollApp.dll
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/DiceRollApp.pdb
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/DiceRollApp.genruntimeconfig.cache
+/Users/monarkkurosaki/Desktop/RiderProjects/DiceRollApp/DiceRollApp/obj/Debug/net9.0/ref/DiceRollApp.dll
